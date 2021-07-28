@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="602px" height="482px" viewBox="0 0 602 482" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 43</title>
+    <g id="创建频道" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-43" transform="translate(1.000000, 1.000000)">
+            <rect id="Mask" stroke="#D9D9D9" fill="#FFFFFF" x="-0.5" y="-0.5" width="601" height="481" rx="2"></rect>
+            <rect id="矩形" stroke="#EEEEEE" fill="#FAFAFA" x="20.5" y="232.5" width="559" height="35" rx="2"></rect>
+            <text id="请输入频道名称" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#CCCCCC">
+                <tspan x="50" y="255">请输入频道名称</tspan>
+            </text>
+            <rect id="矩形" stroke="#EEEEEE" fill="#FAFAFA" x="20.5" y="322.5" width="559" height="75" rx="2"></rect>
+            <text id="可描述讨论的主题，限300个字符" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#CCCCCC">
+                <tspan x="30" y="345">可描述讨论的主题，限300个字符</tspan>
+            </text>
+            <g id="编组-3" transform="translate(500.000000, 432.000000)">
+                <rect id="Rectangle-13" stroke="#DDDDDD" fill="#DDDDDD" x="0.5" y="0.5" width="79" height="27" rx="2"></rect>
+                <text id="确定" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="28" y="19">确定</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(404.000000, 432.000000)">
+                <rect id="Rectangle-13" stroke="#DFDFDF" fill="#FFFFFF" x="0.5" y="0.5" width="79" height="27" rx="2"></rect>
+                <text id="取消" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#666666">
+                    <tspan x="28" y="18">取消</tspan>
+                </text>
+            </g>
+            <text id="创建频道" font-family="PingFangSC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#111111">
+                <tspan x="20" y="37">创建频道</tspan>
+            </text>
+            <text id="(创建后无法修改)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#9B9B9B">
+                <tspan x="82" y="101">(创建后无法修改)</tspan>
+            </text>
+            <text id="(必填)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#9B9B9B">
+                <tspan x="82" y="221">(必填)</tspan>
+            </text>
+            <text id="(可选)" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#9B9B9B">
+                <tspan x="82" y="311">(可选)</tspan>
+            </text>
+            <text id="限16个字符" opacity="0" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#EA4335">
+                <tspan x="20" y="284">限16个字符</tspan>
+            </text>
+            <g id="编组-2" transform="translate(20.000000, 235.000000)" fill="#666666">
+                <path d="M14,9 L13.75,12 L16.75,12 L17,9 L18,9 L17.75,12 L20,12 L20,13 L17.667,13 L17.333,17 L20,17 L20,18 L17.25,18 L17,21 L16,21 L16.25,18 L13.25,18 L13,21 L12,21 L12.25,18 L10,18 L10,17 L12.333,17 L12.667,13 L10,13 L10,12 L12.75,12 L13,9 L14,9 Z M16.333,17 L16.667,13 L13.667,13 L13.333,17 L16.333,17 Z" id="形状结合"></path>
+            </g>
+            <text id="频道类型" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#111111">
+                <tspan x="20" y="101">频道类型</tspan>
+            </text>
+            <text id="频道名称" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#111111">
+                <tspan x="20" y="221">频道名称</tspan>
+            </text>
+            <text id="频道公告" font-family="PingFangSC-Semibold, PingFang SC" font-size="14" font-weight="500" fill="#111111">
+                <tspan x="20" y="311">频道公告</tspan>
+            </text>
+            <rect id="矩形" stroke="#EEEEEE" fill="#FAFAFA" x="20.5" y="112.5" width="274" height="65" rx="2"></rect>
+            <rect id="矩形" stroke="#4285F4" fill="#F5F9FE" x="305.5" y="112.5" width="274" height="65" rx="2"></rect>
+            <text id="外部" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#111111">
+                <tspan x="498" y="137">外部</tspan>
+            </text>
+            <g id="编组-39" transform="translate(530.000000, 122.000000)">
+                <path d="M0,10 L0,10 C0,4.4771525 4.47207592,0 9.99050677,0 L30.0094932,0 C35.5270978,0 40,4.47593818 40,10 L40,10 C40,15.5228475 35.5279241,20 30.0094932,20 L9.99050677,20 C4.47290224,20 0,15.5264747 0,10 L0,10 Z" id="Rectangle-77-Copy-6" fill="#CCCCCC"></path>
+                <path d="M10,18 C14.418278,18 18,14.418278 18,10 C18,5.581722 14.418278,2 10,2 C5.581722,2 2,5.581722 2,10 C2,14.418278 5.581722,18 10,18 Z" id="Oval-1-Copy-12" fill="#FFFFFF"></path>
+            </g>
+            <text id="成员仅可通过邀请加入" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#9B9B9B">
+                <tspan x="32" y="163">成员仅可通过邀请加入</tspan>
+            </text>
+            <text id="本组织成员可自由加入" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#9B9B9B">
+                <tspan x="317" y="163">本组织成员可自由加入</tspan>
+            </text>
+            <text id="私密" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#111111">
+                <tspan x="32" y="139">私密</tspan>
+            </text>
+            <text id="公开" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#111111">
+                <tspan x="317" y="139">公开</tspan>
+            </text>
+            <text id="频道是围绕某个主题，组织成员进行讨论的最" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#9B9B9B">
+                <tspan x="20" y="61">频道是围绕某个主题，组织成员进行讨论的最佳方式</tspan>
+            </text>
+            <g id="操作点" transform="translate(437.000000, 88.000000)">
+                <path d="M10,0 C15.5228475,-1.01453063e-15 20,4.4771525 20,10 C20,13.0843226 18.6036465,15.8425094 16.4086196,17.6768802 L10,25 L3.59541874,17.6802532 C1.39806633,15.8458915 3.77952173e-16,13.0862137 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="形状结合" fill="#1951AE" fill-rule="evenodd"></path>
+                <text id="1" font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#FFFFFF">
+                    <tspan x="8" y="14">1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
