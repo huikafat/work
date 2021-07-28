@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="702px" height="654px" viewBox="0 0 702 654" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 10</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="90" height="22" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="90" height="22" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="90" height="22" rx="2"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="90" height="22" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="0" y="0" width="600" height="480" rx="2"></rect>
+        <filter x="-3.3%" y="-3.8%" width="106.7%" height="108.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.248131793 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="14" height="14" rx="2"></rect>
+        <rect id="path-9" x="0" y="0" width="14" height="14" rx="2"></rect>
+    </defs>
+    <g id="消息搜索" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-10" transform="translate(1.000000, 1.000000)">
+            <g id="编组-2" transform="translate(0.000000, 32.000000)" fill="#FCFCFC" stroke="#979797">
+                <path d="M700.5,-0.5 L-0.5,-0.5 L-0.5,616 C-0.5,617.242641 0.00367965644,618.367641 0.818019485,619.181981 C1.63235931,619.99632 2.75735931,620.5 4,620.5 L696,620.5 C697.242641,620.5 698.367641,619.99632 699.181981,619.181981 C699.99632,618.367641 700.5,617.242641 700.5,616 L700.5,-0.5 Z" id="蒙版"></path>
+            </g>
+            <g id="编组-4" transform="translate(30.000000, 52.000000)">
+                <rect id="Rectangle" stroke="#EEEEEE" fill="#FFFFFF" x="0.5" y="0.5" width="601" height="33" rx="2"></rect>
+                <text id="搜索聊天内容" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="28" y="22">搜索聊天内容</tspan>
+                </text>
+                <path d="M15.2941176,11 C18.2179781,11 20.5882353,13.3702572 20.5882353,16.2941176 C20.5882353,17.5758673 20.1327351,18.7512292 19.374777,19.6671608 L21.8535534,22.1464466 C22.0488155,22.3417088 22.0488155,22.6582912 21.8535534,22.8535534 C21.6582912,23.0488155 21.3417088,23.0488155 21.1464466,22.8535534 L18.6671608,20.374777 C17.7512292,21.1327351 16.5758673,21.5882353 15.2941176,21.5882353 C12.3702572,21.5882353 10,19.2179781 10,16.2941176 C10,13.3702572 12.3702572,11 15.2941176,11 Z M15.2941176,12 C12.922542,12 11,13.922542 11,16.2941176 C11,18.6656933 12.922542,20.5882353 15.2941176,20.5882353 C17.6656933,20.5882353 19.5882353,18.6656933 19.5882353,16.2941176 C19.5882353,13.922542 17.6656933,12 15.2941176,12 Z" id="形状结合" fill="#9B9B9B" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#C0C0C0" x="606" y="0" width="34" height="34" rx="2"></rect>
+                <g id="arrow" transform="translate(623.000000, 17.000000) rotate(180.000000) translate(-623.000000, -17.000000) translate(617.000000, 11.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M6.14696607,6.43067019 L6.14696608,6.43067018 C6.15517718,6.42244592 6.16316984,6.41400635 6.17093547,6.4053603 C6.17881888,6.39837056 6.18655866,6.39117336 6.1941229,6.38364104 C6.40249058,6.17528932 6.40249058,5.8375476 6.1941229,5.6292278 L1.22601314,0.661293586 C1.01766142,0.452941865 0.679903749,0.452941865 0.471552029,0.661293586 C0.263296058,0.869645306 0.263296058,1.20729127 0.471552029,1.41564299 L5.06253496,6.00641846 L0.518676924,10.5500531 C0.284392946,10.7844328 0.2632801,11.1431916 0.471536071,11.3515433 C0.679903749,11.5598951 1.03879023,11.5387503 1.27305825,11.3043865 L6.14696608,6.43067018 L6.14696607,6.43067019 Z M11.5283642,6.38364105 C11.7367319,6.17528933 11.7367319,5.83754762 11.5283642,5.62922781 L6.56025444,0.661293598 C6.35188676,0.452941877 6.01411313,0.452941877 5.80579332,0.661293598 C5.59753735,0.869645319 5.59753735,1.20729128 5.80579332,1.415643 L10.3967603,6.00641847 L5.85295013,10.5500531 C5.6186502,10.7844328 5.59753735,11.1431916 5.80579332,11.3515433 C6.01412908,11.5598951 6.37303152,11.5387503 6.60729954,11.3043865 L11.4812074,6.43068615 L11.4812074,6.43068616 C11.4894148,6.42245829 11.4974073,6.41401882 11.5051768,6.40537627 C11.5130602,6.39838653 11.5208159,6.39118933 11.5283642,6.38364105 L11.5283642,6.38364105 Z" id="形状" transform="translate(6.000000, 6.000000) rotate(-270.000000) translate(-6.000000, -6.000000) "></path>
+                </g>
+            </g>
+            <rect id="Rectangle-7" fill="#EEEEEE" fill-rule="nonzero" x="0" y="249" width="700" height="1"></rect>
+            <text id="精准搜索" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                <tspan x="106" y="113">精准搜索</tspan>
+            </text>
+            <g id="Group-5" transform="translate(86.000000, 102.000000)">
+                <path d="" id="Combined-Shape-Copy-17" stroke="#4285F4" stroke-width="2.33333333"></path>
+                <circle id="Oval-318-Copy" fill="#4285F4" cx="7" cy="7" r="2.33333333"></circle>
+            </g>
+            <text id="模糊搜索" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                <tspan x="204" y="113">模糊搜索</tspan>
+            </text>
+            <text id="方式：" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#111111">
+                <tspan x="40" y="113">方式：</tspan>
+            </text>
+            <text id="成员：" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#111111">
+                <tspan x="40" y="150">成员：</tspan>
+            </text>
+            <text id="房间：" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#111111">
+                <tspan x="40" y="184">房间：</tspan>
+            </text>
+            <text id="时间：" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#111111">
+                <tspan x="40" y="218">时间：</tspan>
+            </text>
+            <text id="至" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#EFDDBC">
+                <tspan x="216" y="218">至</tspan>
+            </text>
+            <g id="分组-19" transform="translate(86.000000, 202.000000)">
+                <rect id="Rectangle-26-Copy-23" stroke="#EEEEEE" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="119" height="21" rx="2"></rect>
+                <g id="de_selector_ico_calendar" transform="translate(87.000000, 1.000000)" stroke="#969696">
+                    <g id="Group" transform="translate(3.000000, 3.875000)">
+                        <rect id="Rectangle" x="0.5" y="1.375" width="13" height="10.375" rx="2"></rect>
+                        <line x1="0.5" y1="3.9375" x2="13.5" y2="3.9375" id="Line" stroke-linecap="square"></line>
+                        <line x1="3.0625" y1="0.4375" x2="3.0625" y2="2.1875" id="Line-2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="10.9375" y1="0.4375" x2="10.9375" y2="2.1875" id="Line-2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="3.9375" y1="6.5625" x2="10.0625" y2="6.5625" id="Line-3" stroke-linecap="round"></line>
+                        <line x1="3.9375" y1="9.1875" x2="10.0625" y2="9.1875" id="Line-3-Copy" stroke-linecap="round"></line>
+                    </g>
+                </g>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#969696">
+                    <tspan x="8" y="13">选择日期</tspan>
+                </text>
+            </g>
+            <g id="分组-19-copy" transform="translate(238.000000, 202.000000)">
+                <rect id="Rectangle-26-Copy-23" stroke="#EEEEEE" fill="#FFFFFF" fill-rule="nonzero" x="0.5" y="0.5" width="119" height="21" rx="2"></rect>
+                <g id="de_selector_ico_calendar" transform="translate(87.000000, 1.000000)" stroke="#969696">
+                    <g id="Group" transform="translate(3.000000, 3.875000)">
+                        <rect id="Rectangle" x="0.5" y="1.375" width="13" height="10.375" rx="2"></rect>
+                        <line x1="0.5" y1="3.9375" x2="13.5" y2="3.9375" id="Line" stroke-linecap="square"></line>
+                        <line x1="3.0625" y1="0.4375" x2="3.0625" y2="2.1875" id="Line-2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="10.9375" y1="0.4375" x2="10.9375" y2="2.1875" id="Line-2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="3.9375" y1="6.5625" x2="10.0625" y2="6.5625" id="Line-3" stroke-linecap="round"></line>
+                        <line x1="3.9375" y1="9.1875" x2="10.0625" y2="9.1875" id="Line-3-Copy" stroke-linecap="round"></line>
+                    </g>
+                </g>
+                <text id="Text" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#969696">
+                    <tspan x="8" y="13">选择日期</tspan>
+                </text>
+            </g>
+            <g id="分组-9" transform="translate(86.000000, 134.000000)">
+                <use id="矩形" stroke="#EEEEEE" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" stroke-dasharray="3" xlink:href="#path-1"></use>
+                <text id="选择成员" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#969696">
+                    <tspan x="28" y="16">选择成员</tspan>
+                </text>
+                <path d="M16,5 C16.4142136,5 16.75,5.33578644 16.75,5.75 L16.75,10.25 L21.25,10.25 C21.6642136,10.25 22,10.5857864 22,11 C22,11.4142136 21.6642136,11.75 21.25,11.75 L16.749,11.75 L16.75,16.25 C16.75,16.6642136 16.4142136,17 16,17 C15.5857864,17 15.25,16.6642136 15.25,16.25 L15.249,11.75 L10.75,11.75 C10.3357864,11.75 10,11.4142136 10,11 C10,10.5857864 10.3357864,10.25 10.75,10.25 L15.25,10.25 L15.25,5.75 C15.25,5.33578644 15.5857864,5 16,5 Z" id="Combined-Shape" fill="#969696"></path>
+            </g>
+            <g id="分组-9" transform="translate(86.000000, 168.000000)">
+                <use id="矩形" stroke="#EEEEEE" mask="url(#mask-4)" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" stroke-dasharray="3" xlink:href="#path-3"></use>
+                <text id="选择房间" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#969696">
+                    <tspan x="28" y="16">选择房间</tspan>
+                </text>
+                <path d="M16,5 C16.4142136,5 16.75,5.33578644 16.75,5.75 L16.75,10.25 L21.25,10.25 C21.6642136,10.25 22,10.5857864 22,11 C22,11.4142136 21.6642136,11.75 21.25,11.75 L16.749,11.75 L16.75,16.25 C16.75,16.6642136 16.4142136,17 16,17 C15.5857864,17 15.25,16.6642136 15.25,16.25 L15.249,11.75 L10.75,11.75 C10.3357864,11.75 10,11.4142136 10,11 C10,10.5857864 10.3357864,10.25 10.75,10.25 L15.25,10.25 L15.25,5.75 C15.25,5.33578644 15.5857864,5 16,5 Z" id="Combined-Shape" fill="#969696"></path>
+            </g>
+            <path d="M191,102 C194.865993,102 198,105.134007 198,109 C198,112.865993 194.865993,116 191,116 C187.134007,116 184,112.865993 184,109 C184,105.134007 187.134007,102 191,102 Z M191,103.75 C188.100505,103.75 185.75,106.100505 185.75,109 C185.75,111.899495 188.100505,114.25 191,114.25 C193.899495,114.25 196.25,111.899495 196.25,109 C196.25,106.100505 193.899495,103.75 191,103.75 Z" id="Combined-Shape" fill="#4285F4"></path>
+            <g id="编组-5" transform="translate(50.000000, 86.000000)">
+                <g id="Group-6-Copy-6">
+                    <g id="Mask">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <rect stroke="#CFCFCF" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" x="-0.5" y="-0.5" width="601" height="481" rx="2"></rect>
+                    </g>
+                    <rect id="Rectangle-10备份" fill-opacity="0.05" fill="#000000" x="20" y="104" width="260" height="1"></rect>
+                </g>
+                <g id="编组-4" transform="translate(0.000000, 226.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="编组-6" transform="translate(20.000000, 5.000000)">
+                        <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                        <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                            <tspan x="19" y="13">叶梓杰</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="编组-4" transform="translate(0.000000, 254.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="编组-6" transform="translate(20.000000, 5.000000)">
+                        <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                        <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                            <tspan x="19" y="13">杨楠</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="编组-4" transform="translate(0.000000, 282.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="编组-6" transform="translate(20.000000, 5.000000)">
+                        <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                        <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                            <tspan x="19" y="13">徐晓云</tspan>
+                        </text>
+                    </g>
+                </g>
+                <path d="M300,412 L600,412 L600,478 C600,479.104569 599.104569,480 598,480 L302,480 C300.895431,480 300,479.104569 300,478 L300,412 L300,412 Z" id="Rectangle-36" fill="#FFFFFF"></path>
+                <rect id="Rectangle-13" fill="#4285F4" x="500" y="438" width="80" height="22" rx="2"></rect>
+                <rect id="Rectangle-13" stroke="#C0C0C0" fill="#FFFFFF" x="416.5" y="438.5" width="79" height="21" rx="2"></rect>
+                <text id="确定" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="528" y="454">确定</tspan>
+                </text>
+                <text id="取消" opacity="0.659999967" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                    <tspan x="444" y="454">取消</tspan>
+                </text>
+                <rect id="ico_global_checkbox_normal备份-7" stroke="#CBCBCB" stroke-width="2" x="269" y="235" width="10" height="10" rx="2"></rect>
+                <rect id="ico_global_checkbox_normal备份-8" stroke="#CBCBCB" stroke-width="2" x="269" y="263" width="10" height="10" rx="2"></rect>
+                <rect id="ico_global_checkbox_normal备份-9" stroke="#CBCBCB" stroke-width="2" x="269" y="291" width="10" height="10" rx="2"></rect>
+                <g id="编组-4" transform="translate(0.000000, 58.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="编组-6" transform="translate(20.000000, 5.000000)">
+                        <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                        <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                            <tspan x="19" y="13">李浩华</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="编组-4" transform="translate(0.000000, 86.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="编组-6" transform="translate(20.000000, 5.000000)">
+                        <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                        <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                            <tspan x="19" y="13">许怡博</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="编组-4" transform="translate(0.000000, 114.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="编组-6" transform="translate(20.000000, 5.000000)">
+                        <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                        <text id="已选择已选择已选择已选择" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#4285F4">
+                            <tspan x="19" y="13">已选择已选择已选择已选择</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text id="已选择（2/10）" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#545454">
+                    <tspan x="321" y="36">已选择（2/10）</tspan>
+                </text>
+                <g id="分组-12" transform="translate(20.000000, 20.000000)">
+                    <rect id="Rectangle" stroke="#EEEEEE" fill="#FFFFFF" x="0.5" y="0.5" width="259" height="27" rx="2"></rect>
+                    <g id="编组" transform="translate(10.000000, 8.000000)" fill="#9B9B9B" fill-rule="nonzero">
+                        <path d="M5.5,0 C8.53756612,0 11,2.46243388 11,5.5 C11,6.90622784 10.4722546,8.18919414 9.60401774,9.16164485 L11.2715182,10.8098128 C11.4667803,11.005075 11.4667803,11.3216575 11.2715182,11.5169196 C11.076256,11.7121818 10.7596735,11.7121818 10.5644114,11.5169196 L8.87261631,9.84491274 C7.9412735,10.5688857 6.77098283,11 5.5,11 C2.46243388,11 0,8.53756612 0,5.5 C0,2.46243388 2.46243388,0 5.5,0 Z M5.5,1 C3.01471863,1 1,3.01471863 1,5.5 C1,7.98528137 3.01471863,10 5.5,10 C7.98528137,10 10,7.98528137 10,5.5 C10,3.01471863 7.98528137,1 5.5,1 Z" id="形状结合"></path>
+                    </g>
+                    <text id="搜索" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#9B9B9B">
+                        <tspan x="28" y="19">搜索</tspan>
+                    </text>
+                </g>
+                <g id="编组-4" transform="translate(300.000000, 58.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="编组-6" transform="translate(20.000000, 5.000000)">
+                        <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                        <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                            <tspan x="19" y="13">李浩华</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="编组-4" transform="translate(300.000000, 86.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="编组-7" transform="translate(20.000000, 5.000000)">
+                        <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                        <text id="群聊群聊群聊群聊群聊群聊群聊群聊群..." font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#111111">
+                            <tspan x="19" y="13">群聊群聊群聊群聊群聊群聊群聊群聊群...</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="global_checkbox_cancel" transform="translate(568.000000, 94.000000)">
+                    <rect id="Rectangle" fill="#EEEEEE" x="0" y="0" width="12" height="12" rx="2"></rect>
+                    <g id="编组-17" transform="translate(2.500000, 2.500000)" fill="#111111">
+                        <rect id="Rectangle-2" transform="translate(3.500000, 3.500000) rotate(-315.000000) translate(-3.500000, -3.500000) " x="0" y="3" width="7" height="1"></rect>
+                        <rect id="Rectangle-2-Copy" transform="translate(3.500000, 3.500000) rotate(-315.000000) translate(-3.500000, -3.500000) " x="3" y="0" width="1" height="7"></rect>
+                    </g>
+                </g>
+                <g id="global_checkbox_cancel" transform="translate(568.000000, 66.000000)">
+                    <rect id="Rectangle" fill="#EEEEEE" x="0" y="0" width="12" height="12" rx="2"></rect>
+                    <g id="编组-17" transform="translate(2.500000, 2.500000)" fill="#111111">
+                        <rect id="Rectangle-2" transform="translate(3.500000, 3.500000) rotate(-315.000000) translate(-3.500000, -3.500000) " x="0" y="3" width="7" height="1"></rect>
+                        <rect id="Rectangle-2-Copy" transform="translate(3.500000, 3.500000) rotate(-315.000000) translate(-3.500000, -3.500000) " x="3" y="0" width="1" height="7"></rect>
+                    </g>
+                </g>
+                <rect id="ico_global_checkbox_normal" stroke="#CBCBCB" stroke-width="2" x="269" y="67" width="10" height="10" rx="2"></rect>
+                <rect id="ico_global_checkbox_normal" stroke="#CBCBCB" stroke-width="2" x="269" y="95" width="10" height="10" rx="2"></rect>
+                <g id="编组-4" transform="translate(0.000000, 142.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="编组-6" transform="translate(20.000000, 5.000000)">
+                        <rect id="矩形" fill="#D8D8D8" x="0" y="2" width="14" height="14" rx="2"></rect>
+                        <text id="王光杰" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#4285F4">
+                            <tspan x="19" y="13">李恒云</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="编组-4" transform="translate(0.000000, 170.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="global_default_avatar" transform="translate(20.000000, 7.000000)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <use id="蒙版" fill="#FFFFFF" xlink:href="#path-7"></use>
+                        <g mask="url(#mask-8)">
+                            <rect id="矩形" fill="#9B9B9B" x="0" y="0" width="14" height="14"></rect>
+                            <circle id="椭圆形" fill="#EEEEEE" cx="7" cy="5.5" r="2.5"></circle>
+                            <path d="M6.91704156,9 C9.89010473,9 12.3581161,11.1623839 12.8341152,14.0001915 L0.999967873,14.0001915 C1.47596705,11.1623839 3.94397839,9 6.91704156,9 Z" id="形状结合" fill="#EEEEEE"></path>
+                        </g>
+                    </g>
+                    <g id="编组-6" transform="translate(39.000000, 5.000000)" fill="#111111" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <text id="王光杰">
+                            <tspan x="0" y="13">李万海</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="编组-4" transform="translate(0.000000, 198.000000)">
+                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="300" height="28"></rect>
+                    <g id="global_default_avatar" transform="translate(20.000000, 7.000000)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <use id="蒙版" fill="#FFFFFF" xlink:href="#path-9"></use>
+                        <g mask="url(#mask-10)">
+                            <rect id="矩形" fill="#9B9B9B" x="0" y="0" width="14" height="14"></rect>
+                            <circle id="椭圆形" fill="#EEEEEE" cx="7" cy="5.5" r="2.5"></circle>
+                            <path d="M6.91704156,9 C9.89010473,9 12.3581161,11.1623839 12.8341152,14.0001915 L0.999967873,14.0001915 C1.47596705,11.1623839 3.94397839,9 6.91704156,9 Z" id="形状结合" fill="#EEEEEE"></path>
+                        </g>
+                    </g>
+                    <g id="编组-6" transform="translate(39.000000, 5.000000)" fill="#111111" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+                        <text id="王光杰">
+                            <tspan x="0" y="13">李强</tspan>
+                        </text>
+                    </g>
+                </g>
+                <rect id="ico_global_checkbox_normal备份-3" stroke="#CBCBCB" stroke-width="2" x="269" y="179" width="10" height="10" rx="2"></rect>
+                <rect id="ico_global_checkbox_normal备份-4" stroke="#CBCBCB" stroke-width="2" x="269" y="207" width="10" height="10" rx="2"></rect>
+                <path d="M277.99147,122 C279.09805,122 280,122.89925 280,124.00853 L280,124.00853 L280,131.99147 C280,133.09805 279.10075,134 277.99147,134 L277.99147,134 L270.00853,134 C268.90195,134 268,133.10075 268,131.99147 L268,131.99147 L268,124.00853 C268,122.90195 268.89925,122 270.00853,122 L270.00853,122 Z M276.765005,124.732468 C275.333699,126.10564 272.949529,129.418264 272.949529,129.418264 C272.949529,129.418264 271.150089,128.040741 270.401929,127.802408 C269.716551,127.584075 269,128.036598 269,128.036598 L272.949529,132 L277.905721,125.355205 C277.905721,125.355205 278.14486,125.022835 278.516328,124.519377 C278.887796,124.015918 277.972011,123.574487 276.765005,124.732468 Z" id="ico_global_checkbox_selected" fill="#4285F4"></path>
+                <path d="M277.99147,150 C279.09805,150 280,150.89925 280,152.00853 L280,152.00853 L280,159.99147 C280,161.09805 279.10075,162 277.99147,162 L277.99147,162 L270.00853,162 C268.90195,162 268,161.10075 268,159.99147 L268,159.99147 L268,152.00853 C268,150.90195 268.89925,150 270.00853,150 L270.00853,150 Z M276.765005,152.732468 C275.333699,154.10564 272.949529,157.418264 272.949529,157.418264 C272.949529,157.418264 271.150089,156.040741 270.401929,155.802408 C269.716551,155.584075 269,156.036598 269,156.036598 L272.949529,160 L277.905721,153.355205 C277.905721,153.355205 278.14486,153.022835 278.516328,152.519377 C278.887796,152.015918 277.972011,151.574487 276.765005,152.732468 Z" id="ico_global_checkbox_selected" fill="#4285F4"></path>
+                <rect id="Rectangle-11" fill="#EEEEEE" fill-rule="nonzero" x="300" y="0" width="1" height="480"></rect>
+            </g>
+            <g id="App-title-bar-dark">
+                <polygon id="Fill-1" stroke="#979797" fill="#FFFFFF" points="0 0 700 0 700 32 0 32"></polygon>
+                <text id="FinChat" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#868686">
+                    <tspan x="12" y="21">FinChat</tspan>
+                </text>
+                <g id="编组-19" transform="translate(668.000000, 0.000000)">
+                    <polygon id="Fill-2" points="0 32 32 32 32 0 0 0"></polygon>
+                    <path d="M21.25,10 L21.957,10.6865455 L16.685,15.798 L21.957,20.9090909 L21.25,21.5956364 L15.978,16.483 L10.707,21.5956364 L10,20.9090909 L15.271,15.798 L10,10.6865455 L10.707,10 L15.978,15.112 L21.25,10 Z" id="Fill-7" fill="#959595"></path>
+                </g>
+                <g id="编组-17" transform="translate(636.000000, 0.000000)">
+                    <polygon id="Fill-9" points="0 32 32 32 32 0 0 0"></polygon>
+                    <rect id="Rectangle-16" stroke="#959595" x="10.5" y="10.5" width="11" height="10.6363636"></rect>
+                </g>
+                <g id="编组-3" transform="translate(604.000000, 0.000000)">
+                    <polygon id="Fill-17" points="0 32 32 32 32 0 0 0"></polygon>
+                    <polygon id="Fill-24" fill="#959595" points="10 16 22 16 22 16.969697 10 16.969697"></polygon>
+                </g>
+            </g>
+            <g id="操作点" transform="translate(572.500000, 501.000000)">
+                <path d="M11,0 C16.5228475,-1.01453063e-15 21,4.4771525 21,10 C21,13.3641058 19.3388262,16.3402236 16.7920083,18.1528239 L10.5,25 L4.20799169,18.1528239 C1.66117377,16.3402236 4.11984135e-16,13.3641058 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 L11,0 Z" id="形状结合" fill="#1951AE" fill-rule="evenodd"></path>
+                <text id="1" font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#FFFFFF">
+                    <tspan x="8" y="14">3</tspan>
+                </text>
+            </g>
+            <g id="操作点" transform="translate(399.500000, 82.000000)">
+                <path d="M11,0 C16.5228475,-1.01453063e-15 21,4.4771525 21,10 C21,13.3641058 19.3388262,16.3402236 16.7920083,18.1528239 L10.5,25 L4.20799169,18.1528239 C1.66117377,16.3402236 4.11984135e-16,13.3641058 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 L11,0 Z" id="形状结合" fill="#1951AE" fill-rule="evenodd"></path>
+                <text id="1" font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#FFFFFF">
+                    <tspan x="8" y="14">2</tspan>
+                </text>
+            </g>
+            <g id="操作点" transform="translate(191.000000, 81.000000)">
+                <path d="M10,0 C15.5228475,-1.01453063e-15 20,4.4771525 20,10 C20,13.0843226 18.6036465,15.8425094 16.4086196,17.6768802 L10,25 L3.59541874,17.6802532 C1.39806633,15.8458915 3.77952173e-16,13.0862137 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="形状结合" fill="#1951AE" fill-rule="evenodd"></path>
+                <text id="1" font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400" fill="#FFFFFF">
+                    <tspan x="8" y="14">1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
