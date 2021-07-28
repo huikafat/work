@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1020px" height="593px" viewBox="0 0 1020 593" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <g id="2.文本" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <text id="主要品牌颜色是鲜艳、友好的蓝色。" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                <tspan x="0" y="52">主要品牌颜色是鲜艳、友好的蓝色。</tspan>
+            </text>
+            <text id="除了主色外的场景色，需要在不同的场景中使" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                <tspan x="0" y="275">除了主色外的场景色，需要在不同的场景中使用（例如危险色表示危险的操作）。</tspan>
+            </text>
+            <text id="中性色用于文本、背景和边框颜色。通过运用" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                <tspan x="0" y="498">中性色用于文本、背景和边框颜色。通过运用不同的中性色，来表现层次结构。</tspan>
+            </text>
+            <text id="主色" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#333333">
+                <tspan x="0" y="19">主色</tspan>
+            </text>
+            <text id="辅助色" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#333333">
+                <tspan x="0" y="242">辅助色</tspan>
+            </text>
+            <text id="中性色" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#333333">
+                <tspan x="0" y="465">中性色</tspan>
+            </text>
+            <path d="M4,73 L356,73 C358.209139,73 360,74.790861 360,77 L360,147 L360,147 L0,147 L0,77 C-2.705415e-16,74.790861 1.790861,73 4,73 Z" id="Rectangle-4" fill="#4285F4"></path>
+            <path d="M4,296 L236,296 C238.209139,296 240,297.790861 240,300 L240,370 L240,370 L0,370 L0,300 C-2.705415e-16,297.790861 1.790861,296 4,296 Z" id="Rectangle-4" fill="#52C41A"></path>
+            <path d="M4,519 L236,519 C238.209139,519 240,520.790861 240,523 L240,593 L240,593 L0,593 L0,523 C-2.705415e-16,520.790861 1.790861,519 4,519 Z" id="Rectangle-4" fill="#333333"></path>
+            <path d="M264,296 L496,296 C498.209139,296 500,297.790861 500,300 L500,370 L500,370 L260,370 L260,300 C260,297.790861 261.790861,296 264,296 Z" id="Rectangle-4" fill="#FABB4B"></path>
+            <path d="M264,519 L496,519 C498.209139,519 500,520.790861 500,523 L500,593 L500,593 L260,593 L260,523 C260,520.790861 261.790861,519 264,519 Z" id="Rectangle-4" fill="#666666"></path>
+            <text id="主题色" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="16" y="106">主题色</tspan>
+            </text>
+            <text id="成功" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="16" y="329">成功</tspan>
+            </text>
+            <text id="主要文字" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="16" y="552">主要文字</tspan>
+            </text>
+            <text id="警告" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="276" y="329">警告</tspan>
+            </text>
+            <text id="常规文字" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="276" y="552">常规文字</tspan>
+            </text>
+            <text id="#52C41A" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="16" y="349">#52C41A</tspan>
+            </text>
+            <text id="#333333" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="16" y="572">#333333</tspan>
+            </text>
+            <text id="#FABB4B" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="276" y="349">#FABB4B</tspan>
+            </text>
+            <text id="#666666" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="276" y="572">#666666</tspan>
+            </text>
+            <text id="#4285f4" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="16" y="126">#4285f4</tspan>
+            </text>
+            <path d="M0,147 L40,147 L40,187 L10,187 C4.4771525,187 6.76353751e-16,182.522847 0,177 L0,147 L0,147 Z" id="矩形" fill="#4285F4" opacity="0.9"></path>
+            <path d="M0,370 L120,370 L120,410 L10,410 C4.4771525,410 6.76353751e-16,405.522847 0,400 L0,370 L0,370 Z" id="矩形" fill-opacity="0.5" fill="#52C41A"></path>
+            <path d="M260,370 L380,370 L380,410 L270,410 C264.477153,410 260,405.522847 260,400 L260,370 L260,370 Z" id="矩形" fill-opacity="0.5" fill="#FABB4B"></path>
+            <rect id="矩形" fill="#4285F4" opacity="0.8" x="40" y="147" width="40" height="40"></rect>
+            <rect id="矩形" fill="#4285F4" opacity="0.7" x="80" y="147" width="40" height="40"></rect>
+            <rect id="矩形" fill="#4285F4" opacity="0.6" x="120" y="147" width="40" height="40"></rect>
+            <rect id="矩形" fill="#4285F4" opacity="0.5" x="160" y="147" width="40" height="40"></rect>
+            <rect id="矩形" fill="#4285F4" opacity="0.4" x="200" y="147" width="40" height="40"></rect>
+            <rect id="矩形" fill="#4285F4" opacity="0.3" x="240" y="147" width="40" height="40"></rect>
+            <rect id="矩形" fill="#4285F4" opacity="0.2" x="280" y="147" width="40" height="40"></rect>
+            <path d="M320,147 L360,147 L360,177 C360,182.522847 355.522847,187 350,187 L320,187 L320,187 L320,147 Z" id="矩形" fill="#4285F4" opacity="0.1"></path>
+            <path d="M120,370 L240,370 L240,400 C240,405.522847 235.522847,410 230,410 L120,410 L120,410 L120,370 Z" id="矩形" fill-opacity="0.2" fill="#52C41A"></path>
+            <path d="M380,370 L500,370 L500,400 C500,405.522847 495.522847,410 490,410 L380,410 L380,410 L380,370 Z" id="矩形" fill-opacity="0.2" fill="#FABB4B"></path>
+            <path d="M524,296 L756,296 C758.209139,296 760,297.790861 760,300 L760,370 L760,370 L520,370 L520,300 C520,297.790861 521.790861,296 524,296 Z" id="Rectangle-4" fill="#FF4D4F"></path>
+            <path d="M524,519 L756,519 C758.209139,519 760,520.790861 760,523 L760,593 L760,593 L520,593 L520,523 C520,520.790861 521.790861,519 524,519 Z" id="Rectangle-4" fill="#9B9B9B"></path>
+            <text id="危险" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="536" y="329">危险</tspan>
+            </text>
+            <text id="次要文字" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="536" y="552">次要文字</tspan>
+            </text>
+            <text id="#FF4D4F" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="536" y="349">#FF4D4F</tspan>
+            </text>
+            <text id="#9B9B9B" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="536" y="572">#9B9B9B</tspan>
+            </text>
+            <path d="M520,370 L640,370 L640,410 L530,410 C524.477153,410 520,405.522847 520,400 L520,370 L520,370 Z" id="矩形" fill-opacity="0.5" fill="#FF4D4F"></path>
+            <path d="M640,370 L760,370 L760,400 C760,405.522847 755.522847,410 750,410 L640,410 L640,410 L640,370 Z" id="矩形" fill-opacity="0.2" fill="#FF4D4F"></path>
+            <path d="M784,296 L1016,296 C1018.20914,296 1020,297.790861 1020,300 L1020,370 L1020,370 L780,370 L780,300 C780,297.790861 781.790861,296 784,296 Z" id="Rectangle-4" fill="#9B9B9B"></path>
+            <path d="M784,519 L1016,519 C1018.20914,519 1020,520.790861 1020,523 L1020,593 L1020,593 L780,593 L780,523 C780,520.790861 781.790861,519 784,519 Z" id="Rectangle-4" fill="#CCCCCC"></path>
+            <text id="提示" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="796" y="329">提示</tspan>
+            </text>
+            <text id="占位文字" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                <tspan x="796" y="552">占位文字</tspan>
+            </text>
+            <text id="#9B9B9B" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="796" y="349">#9B9B9B</tspan>
+            </text>
+            <text id="#CCCCCC" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF" fill-opacity="0.7">
+                <tspan x="796" y="572">#CCCCCC</tspan>
+            </text>
+            <path d="M780,370 L900,370 L900,410 L790,410 C784.477153,410 780,405.522847 780,400 L780,370 L780,370 Z" id="矩形" fill-opacity="0.5" fill="#9B9B9B"></path>
+            <path d="M900,370 L1020,370 L1020,400 C1020,405.522847 1015.52285,410 1010,410 L900,410 L900,410 L900,370 Z" id="矩形" fill-opacity="0.2" fill="#9B9B9B"></path>
+        </g>
+    </g>
+</svg>

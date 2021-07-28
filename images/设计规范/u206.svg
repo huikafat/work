@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1344px" height="1040px" viewBox="0 0 1344 1040" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 2</title>
+    <g id="2.文本" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal">
+        <g id="编组-2">
+            <text id="示例" font-size="34" fill="#9B9B9B">
+                <tspan x="0" y="36">示例</tspan>
+            </text>
+            <text id="字体样式" font-size="36" fill="#333333">
+                <tspan x="0" y="148">字体样式</tspan>
+            </text>
+            <text id="字体样式" font-size="34" fill="#333333">
+                <tspan x="0" y="323">字体样式</tspan>
+            </text>
+            <text id="字体样式" font-size="32" fill="#333333">
+                <tspan x="0" y="497">字体样式</tspan>
+            </text>
+            <text id="字体样式" font-size="24" fill="#333333">
+                <tspan x="0" y="840">字体样式</tspan>
+            </text>
+            <text id="字体样式" font-size="20" fill="#333333">
+                <tspan x="0" y="1013">字体样式</tspan>
+            </text>
+            <text id="字体样式" font-size="28" fill="#333333">
+                <tspan x="0" y="669">字体样式</tspan>
+            </text>
+            <text id="18" font-size="34" fill="#333333">
+                <tspan x="395" y="146">18</tspan>
+            </text>
+            <text id="17" font-size="34" fill="#333333">
+                <tspan x="395" y="323">17</tspan>
+            </text>
+            <text id="16" font-size="34" fill="#333333">
+                <tspan x="395" y="499">16</tspan>
+            </text>
+            <text id="12" font-size="34" fill="#333333">
+                <tspan x="395" y="851">12</tspan>
+            </text>
+            <text id="10" font-size="34" fill="#333333">
+                <tspan x="395" y="1028">10</tspan>
+            </text>
+            <text id="14" font-size="34" fill="#333333">
+                <tspan x="395" y="675">14</tspan>
+            </text>
+            <text id="导航栏标题、大按钮提示字" font-size="34" fill="#333333">
+                <tspan x="698" y="146">导航栏标题、大按钮提示字</tspan>
+            </text>
+            <text id="全局标题/文案" font-size="34" fill="#333333">
+                <tspan x="698" y="323">全局标题/文案</tspan>
+            </text>
+            <text id="导航栏文本按钮、气泡文本、输入栏文本-大" font-size="34" fill="#333333">
+                <tspan x="698" y="499">导航栏文本按钮、气泡文本、输入栏文本</tspan>
+                <tspan x="698" y="547">大按钮提示字</tspan>
+            </text>
+            <text id="标签栏文字、消息列表时间、加号内提示字" font-size="34" fill="#333333">
+                <tspan x="698" y="851">标签栏文字、消息列表时间、加号内提示字</tspan>
+                <tspan x="698" y="899">群聊聊天室内人名</tspan>
+            </text>
+            <text id="图文tag文字" font-size="34" fill="#333333">
+                <tspan x="698" y="1028">图文tag文字</tspan>
+            </text>
+            <text id="消息列表提示字、cell上下描述文案-小" font-size="34" fill="#333333">
+                <tspan x="698" y="675">消息列表提示字、cell上下描述文案</tspan>
+                <tspan x="698" y="723">小按钮提示字、选项卡、搜索预填字</tspan>
+            </text>
+            <text id="字号" font-size="34" fill="#9B9B9B">
+                <tspan x="395" y="36">字号</tspan>
+            </text>
+            <text id="用途示例" font-size="34" fill="#9B9B9B">
+                <tspan x="698" y="36">用途示例</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
